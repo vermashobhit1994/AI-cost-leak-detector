@@ -149,4 +149,55 @@ additional requirements
     - short blog post or twitter thread draft pitching the tool, written as if
       you were launching it.
 
+
+right plan depend
+1. monthly spend
+2. team size
+3. number of seats
+4. primary use case
+
+
 ### pages
+
+
+### approach to solve problem
+
+My approach to find right plan based on usuage, find cheaper plan from 
+same vendor, find cheaper alternative tool based on usecase
+
+for each tool
+- calcuate total cost based on existing plans by company(monthly charges, yearly charges
+(per month), yearly charges, tax(if applied), number of users, number of seats,
+team size, purpose of tool )
+
+- cost given by user for each tool
+ (depends on number of users, number of seats, team size, tool purpose, tool name,
+ tool plan, current monthly spend)
+
+- for each tool, find cost difference.
+cost calculated based on plan given by company and cost given by user
+
+- find right plan 
+for current plan , calculate difference of user given cost and company plans cost
+based on number of users, number of seats, team size
+
+- find cheaper plan
+for all plans from same company, calculate difference of user given cost and company plans cost and return result where difference is very low
+
+- find chaper alternative tool with similar capability based on their use case
+for all plans from all company, calcuate difference of user given cost and 
+company plans cost and return result where difference is very low
+
+- hardcoded array, that store what **AI tool**  and their **current capabilities** 
+  example claude code -> coding 
+  claude opus 4.7 -> reasoning, agentic coding
+  claude sonnet 4.6 -> speed and intelligence
+  claude halku 4.5 -> fastest and near-frontier intelligence
+
+  
+
+
+
+
+Q. how to minimise token usuage to save money?
+

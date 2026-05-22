@@ -1,4 +1,4 @@
-# Requirements analysis
+# Step1- Requirements analysis
 
 ### functional requirements
 
@@ -195,9 +195,58 @@ company plans cost and return result where difference is very low
   claude halku 4.5 -> fastest and near-frontier intelligence
 
   
+### what's hypothesis I used when calculate user amount(paid monthly and paid yearly)?
+
+### what's assumption when calculating user amount(paid monthly and paid yearly)?
+Github copilot - they don't charge GST(18%)
+Grok -   they don't charge GST(18%)
+
+
+### where we can find cost leak?
+1. using wrong tool for wrong use-case(purpose)
+2. user team size <=2 and using Team plan 
+
+
+
+
+
+### calculate API token usuage price?
+
+input -> input tokens number
+      -> output tokens number 
+	  -> cache read input tokens number 
+	  -> cache creation input tokens 
+	  -> session duration 
+	  
+output -> total API cost 
+
+how to calculate 
+input tokens cost -> (model base input per 1M cost/1000000) x input token number
+output tokens cost -> (model output token per 1M cost / 1000000) x output token number 
+cache read input token cost ->  
+
+provide both API price direct write and calculate using above parameters
+(for both claude and openai)
+
+
+# Tech stack choices  
+
+## Frontend
+
+
+
+## backend 
+
+
+
+# Step2 - data modelling
+1. AI tool data 
+2. user given data 
+3. user estimated data 
 
 
 
 
 Q. how to minimise token usuage to save money?
+
 

@@ -29,10 +29,12 @@
 
 ## Github copilot
 
+### Monthly
+
 ### Individuals
-- Free: $0/month
-- Pro: $10/user/month
-- Pro+: $39/user/month
+- Free: $0/month - https://github.com/features/copilot/plans
+- Pro: $10/user/month - https://github.com/features/copilot/plans
+- Pro+: $39/user/month - https://github.com/features/copilot/plans
 
 ### business
 - business: $19/user/month

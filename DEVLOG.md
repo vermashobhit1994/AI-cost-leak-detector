@@ -98,12 +98,34 @@ using API provided by LLM company.
 
 
 ## Day 4 - 2026-05-23
-**Hours worked:** 
+**Hours worked:** 13
 
 **What I did:**
+ 
+- data modelling for AI tool company plan data by researching and analysis from AI tool docs.
+- data modelling of user provided data. 
+- data modelling of output data.
+- data modelling of AI model data. 
+
 
 **What I learned:**
 
+- some companies didn't tell clearly about their AI tools that can be used until you buy 
+their plan.(eg github copilot) 
+
+- any AI model token cost depends on many factors and I need to consider all when calculate 
+exact cost. 
+
+- some assumption when doing data modelling must be done to simplify process.
+
+
 **Blockers / what I'm stuck on:**
+- How to find what models are best for what purpose of task?
 
 **Plan for tomorrow:**
+- data modelling to find different AI models usecase(purpose) i.e. task that they can be used.
+- update PRICING_DATA.md file for price links
+- system design and data flow 
+- choose tech stack based on requirements.
+- design UI and implement functionailty of Spend input form, Audit engine using chosen tech stack.
+  

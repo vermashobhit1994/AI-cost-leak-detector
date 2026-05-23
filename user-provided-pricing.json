@@ -1,0 +1,20 @@
+[
+    {
+        "AItool": "claude",
+        "plan": "5x",
+        "currentMonthlyCostInDollars": "590",
+        "currentYearlyCostInDollars": "",
+        "seatsCount": "0",
+        "teamSize": "5",
+        "purpose": "coding"
+    },
+    {
+        "AItool": "claude",
+        "plan": "Standard Seat",
+        "currentMonthlyCostInDollars": "",
+        "currentYearlyCostInDollars": "",
+        "seatsCount": "",
+        "teamSize": "2",
+        "purpose": ""
+    }
+]

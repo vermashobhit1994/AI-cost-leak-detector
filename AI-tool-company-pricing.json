@@ -1,0 +1,1273 @@
+[
+    {
+        "AITool": "cursor",
+        "plans": {
+            "monthlyPlans": [
+                {
+                    "planConsumer": "individual",
+                    "plan": "Hobby",
+                    "monthlyChargesInDollars": "0.00",
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Pro",
+                    "monthlyChargesInDollars": "20.00",
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Pro+",
+                    "monthlyChargesInDollars": "60.00",
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Ultra",
+                    "monthlyChargesInDollars": "200.00",
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "team",
+                    "plan": "Teams",
+                    "monthlyChargesInDollars": "40.00",
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "company",
+                    "plan": "Enterprise",
+                    "monthlyChargesInDollars": "",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                }
+            ],
+            "yearlyPlans": [
+                {
+                    "planConsumer": "individual",
+                    "plan": "Hobby",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": true,
+                            "isChargedYearlyPerYear": false,
+                            "monthlyPrice": "0.00",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Pro",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": true,
+                            "isChargedYearlyPerYear": false,
+                            "monthlyPrice": "16.00",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Pro+",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": true,
+                            "isChargedYearlyPerYear": false,
+                            "monthlyPrice": "48.00",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Ultra",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": true,
+                            "isChargedYearlyPerYear": false,
+                            "monthlyPrice": "160.00",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "team",
+                    "plan": "Teams",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": true,
+                            "isChargedYearlyPerYear": false,
+                            "monthlyPrice": "32.00",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "company",
+                    "plan": "Enterprise",
+                    "yearlyChargesInDollars": "",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                }
+            ]
+        },
+        "APIPricing": []
+    },
+    {
+        "AITool": "Github Copilot",
+        "plans": {
+            "monthlyPlans": [
+                {
+                    "planConsumer": "individual",
+                    "plan": "Free",
+                    "monthlyChargesInDollars": "0.00",
+                    "isTaxPresent": false,
+                    "taxPercent": "0",
+                    "emailIdCount": "1",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Pro",
+                    "monthlyChargesInDollars": "10.00",
+                    "isTaxPresent": false,
+                    "taxPercent": "0",
+                    "emailIdCount": "1",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Pro+",
+                    "monthlyChargesInDollars": "39.00",
+                    "isTaxPresent": false,
+                    "taxPercent": "0",
+                    "emailIdCount": "1",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "company",
+                    "plan": "Business",
+                    "monthlyChargesInDollars": "19.00",
+                    "isTaxPresent": false,
+                    "taxPercent": "0",
+                    "emailIdCount": "1",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Enterprise",
+                    "monthlyChargesInDollars": "39.00",
+                    "isTaxPresent": false,
+                    "taxPercent": "0",
+                    "emailIdCount": "1",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                }
+            ],
+            "yearlyPlans": []
+        },
+        "APIPricing": []
+    },
+    {
+        "AITool": "Claude",
+        "plans": {
+            "monthlyPlans": [
+                {
+                    "planConsumer": "individual",
+                    "plan": "Free",
+                    "monthlyChargesInDollars": "0.00",
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Pro",
+                    "monthlyChargesInDollars": "20.00",
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Max 5x",
+                    "monthlyChargesInDollars": "100.00",
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Max 20x",
+                    "monthlyChargesInDollars": "200.00",
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "team",
+                    "plan": "Standard Seat",
+                    "monthlyChargesInDollars": "25.00",
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": true,
+                    "minSeatsCount": "1",
+                    "minTeamSize": "5",
+                    "maxTeamSize": "150"
+                },
+                {
+                    "planConsumer": "team",
+                    "plan": "Premium Seat",
+                    "monthlyChargesInDollars": "125.00",
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": true,
+                    "minSeatsCount": "1",
+                    "minTeamSize": "20",
+                    "maxTeamSize": "infinite"
+                },
+                {
+                    "planConsumer": "company",
+                    "plan": "Enterprise",
+                    "monthlyChargesInDollars": "20.00",
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "1",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                }
+            ],
+            "yearlyPlans": [
+                {
+                    "planConsumer": "individual",
+                    "plan": "Free",
+                    "yearlyChargesInDollars": [
+                        {
+                            "monthlyPrice": "0.00",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Pro",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": false,
+                            "isChargedYearlyPerYear": true,
+                            "monthlyPrice": "17.00",
+                            "yearlyPrice": "200.00"
+                        }
+                    ],
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "team",
+                    "plan": "Standard Seat",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": true,
+                            "isChargedYearlyPerYear": false,
+                            "monthlyPrice": "20.00",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "",
+                    "isSeatsPresent": true,
+                    "minSeatsCount": "1",
+                    "minTeamSize": "5",
+                    "maxTeamSize": "150"
+                },
+                {
+                    "planConsumer": "team",
+                    "plan": "Premium Seat",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": true,
+                            "isChargedYearlyPerYear": false,
+                            "monthlyPrice": "100.00",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "",
+                    "isSeatsPresent": true,
+                    "minSeatsCount": "1",
+                    "minTeamSize": "20",
+                    "maxTeamSize": "infinite"
+                },
+                {
+                    "planConsumer": "company",
+                    "plan": "Enterprise",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": false,
+                            "isChargedYearlyPerYear": false,
+                            "monthlyPrice": "20.00",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "1",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                }
+            ]
+        },
+        "APIPricing": [
+            {
+                "model": "claude Opus 4.7",
+                "modelpricing": {
+                    "tokensCostPerMillionInDollars": {
+                        "baseInput": "5.00",
+                        "5minuteCacheWrite": "6.25",
+                        "1hourCacheWrite": "10.00",
+                        "cacheHitAndRefreshes": "0.50",
+                        "output": "25.00",
+                        "cacheRead": "0.50"
+                    },
+                    "sessionRunTimePerHourCost": "0.08",
+                    "promptCachingFeaturePricing": {}
+                },
+                "promptCachingFeaturePricing": {
+                    "tokensCostPerMillionInDollars": {
+                        "baseInput": "5.00",
+                        "5minuteCachWritePriceMultiplier": "1.25",
+                        "5minuteCacheWrite": "6.25",
+                        "1hourCacheWritePriceMultiplier": "2",
+                        "1hourCacheWrite": "10.00",
+                        "cacheHitPriceMultiplier": "0.1",
+                        "cacheHitAndRefreshes": "0.50",
+                        "output": "25.00",
+                        "cacheRead": "0.50"
+                    }
+                }
+            },
+            {
+                "model": "claude Opus 4.6",
+                "tokensCostPerMillionInDollars": {
+                    "baseInput": "5.00",
+                    "5minuteCacheWrite": "6.25",
+                    "1hourCacheWrite": "10.00",
+                    "cacheHitAndRefreshes": "0.50",
+                    "output": "25.00",
+                    "cacheRead": "0.50"
+                },
+                "sessionRunTimePerHourCost": "0.08"
+            },
+            {
+                "model": "claude Opus 4.5",
+                "tokensCostPerMillionInDollars": {
+                    "baseInput": "5.00",
+                    "5minuteCacheWrite": "6.25",
+                    "1hourCacheWrite": "10.00",
+                    "cacheHitAndRefreshes": "0.50",
+                    "output": "25.00",
+                    "cacheRead": "0.50"
+                },
+                "sessionRunTimePerHourCost": "0.08"
+            },
+            {
+                "model": "claude Opus 4.1",
+                "tokensCostPerMillionInDollars": {
+                    "baseInput": "15.00",
+                    "5minuteCacheWrite": "18.75",
+                    "1hourCacheWrite": "30.00",
+                    "cacheHitAndRefreshes": "1.50",
+                    "output": "75.00",
+                    "cacheRead": "1.50"
+                },
+                "sessionRunTimePerHourCost": "0.08"
+            },
+            {
+                "model": "claude Sonnet 4.6",
+                "tokensCostPerMillionInDollars": {
+                    "baseInput": "3.00",
+                    "5minuteCacheWrite": "3.75",
+                    "1hourCacheWrite": "6.00",
+                    "cacheHitAndRefreshes": "0.30",
+                    "output": "15.00",
+                    "cacheRead": "0.30"
+                },
+                "sessionRunTimePerHourCost": "0.08"
+            },
+            {
+                "model": "claude Sonnet 4.5",
+                "tokensCostPerMillionInDollars": {
+                    "baseInput": "3.00",
+                    "5minuteCacheWrite": "3.75",
+                    "1hourCacheWrite": "6.00",
+                    "cacheHitAndRefreshes": "0.30",
+                    "output": "15.00",
+                    "cacheRead": "0.30"
+                },
+                "sessionRunTimePerHourCost": "0.08"
+            },
+            {
+                "model": "claude Haiku 4.5",
+                "tokensCostPerMillionInDollars": {
+                    "baseInput": "1.00",
+                    "5minuteCacheWrite": "1.25",
+                    "1hourCacheWrite": "2.00",
+                    "cacheHitAndRefreshes": "0.10",
+                    "output": "5.00",
+                    "cacheRead": "0.01"
+                },
+                "sessionRunTimePerHourCost": "0.08"
+            }
+        ]
+    },
+    {
+        "AITool": "ChatGPT",
+        "plans": {
+            "monthlyPlans": [
+                {
+                    "isCreditsPlansPresent": false,
+                    "nonCreditsPlan": {
+                        "planConsumer": "individual",
+                        "plan": "Free",
+                        "monthlyChargesInDollars": "0.00",
+                        "isTaxPresent": false,
+                        "taxPercent": "0",
+                        "emailIdCount": "",
+                        "usersCount": "",
+                        "isSeatsPresent": false,
+                        "minSeatsCount": "",
+                        "minTeamSize": "",
+                        "maxTeamSize": ""
+                    },
+                    "creditsPlan": {}
+                },
+                {
+                    "isCreditsPlansPresent": false,
+                    "nonCreditsPlan": {
+                        "planConsumer": "individual",
+                        "plan": "Go",
+                        "monthlyChargesInDollars": "4.17",
+                        "isTaxPresent": false,
+                        "taxPercent": "0",
+                        "emailIdCount": "",
+                        "usersCount": "",
+                        "isSeatsPresent": false,
+                        "minSeatsCount": "",
+                        "minTeamSize": "",
+                        "maxTeamSize": ""
+                    },
+                    "creditsPlan": {}
+                },
+                {
+                    "isCreditsPlansPresent": true,
+                    "nonCreditsPlan": {
+                        "planConsumer": "individual",
+                        "plan": "plus",
+                        "250CreditChargesInDollars": "",
+                        "incrementCreditsCount": "",
+                        "monthlyChargesInDollars": "20.87",
+                        "isTaxPresent": false,
+                        "taxPercent": "",
+                        "emailIdCount": "",
+                        "usersCount": "",
+                        "isSeatsPresent": false,
+                        "minSeatsCount": "",
+                        "minTeamSize": "",
+                        "maxTeamSize": ""
+                    },
+                    "creditsPlan": {
+                        "planConsumer": "individual",
+                        "plan": "Business Codex",
+                        "250CreditChargesInDollars": "8.874",
+                        "incrementCreditsCount": "250",
+                        "monthlyChargesInDollars": "",
+                        "isTaxPresent": false,
+                        "taxPercent": "",
+                        "emailIdCount": "",
+                        "usersCount": "",
+                        "isSeatsPresent": false,
+                        "minSeatsCount": "",
+                        "minTeamSize": "",
+                        "maxTeamSize": ""
+                    }
+                },
+                {
+                    "isCreditsPlansPresent": true,
+                    "nonCreditsPlan": {
+                        "planConsumer": "individual",
+                        "plan": "pro",
+                        "monthlyChargesInDollars": "111.69",
+                        "isTaxPresent": false,
+                        "taxPercent": "",
+                        "emailIdCount": "",
+                        "usersCount": "",
+                        "isSeatsPresent": false,
+                        "minSeatsCount": "",
+                        "minTeamSize": "",
+                        "maxTeamSize": ""
+                    },
+                    "creditsPlan": {
+                        "planConsumer": "individual",
+                        "plan": "Business Codex",
+                        "250CreditChargesInDollars": "8.874",
+                        "incrementCreditsCount": "250",
+                        "monthlyChargesInDollars": "",
+                        "isTaxPresent": false,
+                        "taxPercent": "",
+                        "emailIdCount": "",
+                        "usersCount": "",
+                        "isSeatsPresent": false,
+                        "minSeatsCount": "",
+                        "minTeamSize": "",
+                        "maxTeamSize": ""
+                    }
+                },
+                {
+                    "isCreditsPlansPresent": true,
+                    "nonCreditsPlan": {
+                        "isCreditPlan": false,
+                        "planConsumer": "company",
+                        "plan": "Business ChatGPT",
+                        "monthlyChargesInDollars": "23.49",
+                        "isTaxPresent": false,
+                        "taxPercent": "",
+                        "emailIdCount": "",
+                        "usersCount": "",
+                        "isSeatsPresent": true,
+                        "minSeatsCount": "2",
+                        "minTeamSize": "",
+                        "maxTeamSize": ""
+                    },
+                    "creditsPlan": {
+                        "isCreditPlan": true,
+                        "planConsumer": "company",
+                        "plan": "Business Codex",
+                        "250CreditChargesInDollars": "8.874",
+                        "incrementCreditsCount": "250",
+                        "monthlyChargesInDollars": "",
+                        "isTaxPresent": false,
+                        "taxPercent": "",
+                        "emailIdCount": "",
+                        "usersCount": "",
+                        "isSeatsPresent": false,
+                        "minSeatsCount": "",
+                        "minTeamSize": "",
+                        "maxTeamSize": ""
+                    }
+                }
+            ],
+            "yearlyPlans": [
+                {
+                    "isCreditsPlansPresent": true,
+                    "nonCreditsPlan": {
+                        "planConsumer": "company",
+                        "plan": "Business ChatGPT",
+                        "yearlyChargesInDollars": [
+                            {
+                                "isChargedYearlyPerMonth": true,
+                                "isChargedYearlyPerYear": false,
+                                "monthlyPrice": "18.79",
+                                "yearlyPrice": ""
+                            }
+                        ],
+                        "isTaxPresent": false,
+                        "taxPercent": "0",
+                        "emailIdCount": "1",
+                        "usersCount": "",
+                        "isSeatsPresent": true,
+                        "minSeatsCount": "2",
+                        "minTeamSize": "",
+                        "maxTeamSize": ""
+                    },
+                    "creditsPlan": {
+                        "planConsumer": "company",
+                        "plan": "Business Codex",
+                        "250CreditChargesInDollars": "8.874",
+                        "incrementCreditsCount": "250",
+                        "yearlyChargesInDollars": [
+                            {
+                                "isChargedYearlyPerMonth": false,
+                                "isChargedYearlyPerYear": false,
+                                "monthlyPrice": "",
+                                "yearlyPrice": ""
+                            }
+                        ],
+                        "isTaxPresent": false,
+                        "taxPercent": "",
+                        "emailIdCount": "",
+                        "usersCount": "",
+                        "isSeatsPresent": false,
+                        "minSeatsCount": "",
+                        "minTeamSize": "",
+                        "maxTeamSize": ""
+                    }
+                }
+            ]
+        },
+        "APIPricing": [
+            {
+                "model": "GPT-5.5",
+                "purpose": [
+                    "coding",
+                    "reasoning"
+                ],
+                "contextWindowTokens": "1050000",
+                "maxOutputTokens": "128000",
+                "tokensCostPerMillionInDollars": {
+                    "shortContext": {
+                        "input": "5.00",
+                        "cachedInput": "0.50",
+                        "output": "30.00"
+                    },
+                    "longContext": {
+                        "input": "10.00",
+                        "cachedInput": "1.00",
+                        "output": "45.00"
+                    }
+                }
+            },
+            {
+                "model": "GPT-5.5-pro",
+                "purpose": [
+                    "coding",
+                    "reasoning"
+                ],
+                "contextWindowTokens": "1050000",
+                "maxOutputTokens": "128000",
+                "tokensCostPerMillionInDollars": {
+                    "shortContext": {
+                        "input": "30.00",
+                        "cachedInput": "",
+                        "output": "180.00"
+                    },
+                    "longContext": {
+                        "input": "60.00",
+                        "cachedInput": "",
+                        "output": "270.00"
+                    }
+                }
+            },
+            {
+                "model": "GPT-5.4",
+                "purpose": [
+                    "coding",
+                    "reasoning"
+                ],
+                "contextWindowTokens": "1050000",
+                "maxOutputTokens": "128000",
+                "tokensCostPerMillionInDollars": {
+                    "shortContext": {
+                        "input": "2.50",
+                        "cachedInput": "0.25",
+                        "output": "15.00"
+                    },
+                    "longContext": {
+                        "input": "5.00",
+                        "cachedInput": "0.50",
+                        "output": "22.50"
+                    }
+                }
+            },
+            {
+                "model": "GPT-5.4-mini",
+                "purpose": [
+                    "coding",
+                    "reasoning",
+                    "subagents",
+                    "OSAccessViaUserInterface"
+                ],
+                "contextWindowTokens": "400000",
+                "maxOutputTokens": "128000",
+                "tokensCostPerMillionInDollars": {
+                    "shortContext": {
+                        "input": "0.75",
+                        "cachedInput": "0.075",
+                        "output": "4.50"
+                    },
+                    "longContext": {
+                        "input": "",
+                        "cachedInput": "",
+                        "output": ""
+                    }
+                }
+            },
+            {
+                "model": "GPT-5.4-nano",
+                "purpose": [
+                    "reasoning",
+                    "highVolumeTasks"
+                ],
+                "contextWindowTokens": "400000",
+                "maxOutputTokens": "128000",
+                "tokensCostPerMillionInDollars": {
+                    "shortContext": {
+                        "input": "0.20",
+                        "cachedInput": "0.02",
+                        "output": "1.25"
+                    },
+                    "longContext": {
+                        "input": "",
+                        "cachedInput": "",
+                        "output": ""
+                    }
+                }
+            },
+            {
+                "model": "GPT-5.4-pro",
+                "purpose": [
+                    "reasoning",
+                ],
+                "contextWindowTokens": "1050000",
+                "maxOutputTokens": "128000",
+                "tokensCostPerMillionInDollars": {
+                    "shortContext": {
+                        "input": "30.00",
+                        "cachedInput": "",
+                        "output": "180.00"
+                    },
+                    "longContext": {
+                        "input": "60.00",
+                        "cachedInput": "",
+                        "output": "270.00"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "AITool": "Google Gemini",
+        "plans": {
+            "monthlyPlans": [
+                {
+                    "planConsumer": "individual",
+                    "plan": "Google AI Plus",
+                    "monthlyChargesInDollars": "4.17",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Google AI Pro",
+                    "monthlyChargesInDollars": "20.36",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Google AI Ultra",
+                    "monthlyChargesInDollars": "67.86",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "company",
+                    "plan": "Google Workspace",
+                    "monthlyChargesInDollars": "14",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "company",
+                    "plan": "Gemini Enterprise app",
+                    "monthlyChargesInDollars": "21",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                }
+            ],
+            "yearlyPlans": [
+                {
+                    "planConsumer": "individual",
+                    "plan": "Google AI Plus",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": true,
+                            "isChargedYearlyPerYear": false,
+                            "monthlyPrice": "41.76",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Google AI Pro",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": true,
+                            "isChargedYearlyPerYear": false,
+                            "monthlyPrice": "203.57",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Google AI Ultra",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": true,
+                            "isChargedYearlyPerYear": false,
+                            "monthlyPrice": "67.86",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                }
+            ]
+        },
+        "APIPricing": []
+    },
+    {
+        "AITool": "windsurf",
+        "plans": {
+            "monthlyPlans": [
+                {
+                    "planConsumer": "individual",
+                    "plan": "Free",
+                    "monthlyChargesInDollars": "0.00",
+                    "isTaxPresent": true,
+                    "taxPercent": "18",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Pro",
+                    "monthlyChargesInDollars": "20",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Max",
+                    "monthlyChargesInDollars": "200",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "team",
+                    "plan": "Teams",
+                    "monthlyChargesInDollars": "40",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "company",
+                    "plan": "Enterprise",
+                    "monthlyChargesInDollars": "",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                }
+            ],
+            "yearlyPlans": []
+        },
+        "APIPricing": []
+    },
+    {
+        "AITool": "v0",
+        "plans": {
+            "monthlyPlans": [
+                {
+                    "planConsumer": "individual",
+                    "plan": "Free",
+                    "monthlyChargesInDollars": "0.00",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "individual",
+                    "plan": "Premium",
+                    "monthlyChargesInDollars": "20.00",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "team",
+                    "plan": "Team",
+                    "monthlyChargesInDollars": "30.00",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "0",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "company",
+                    "plan": "Business",
+                    "monthlyChargesInDollars": "100.00",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "1",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "company",
+                    "plan": "Enterprise",
+                    "monthlyChargesInDollars": "",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                }
+            ],
+            "yearlyPlans": []
+        },
+        "APIPricing": []
+    },
+    {
+        "AITool": "Grok",
+        "plans": {
+            "monthlyPlans": [
+                {
+                    "planConsumer": "individual",
+                    "plan": "Individual",
+                    "IstrialPeriodPresent": true,
+                    "trialPeriodInDays": "3",
+                    "monthlyChargesInDollars": "7.31",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "company",
+                    "plan": "Grok Business Supergrok",
+                    "IstrialPeriodPresent": false,
+                    "trialPeriodInDays": "",
+                    "monthlyChargesInDollars": "30.00",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "company",
+                    "plan": "Grok Business Supergrok heavy",
+                    "IstrialPeriodPresent": false,
+                    "trialPeriodInDays": "",
+                    "monthlyChargesInDollars": "300",
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                }
+            ],
+            "yearlyPlans": [
+                {
+                    "planConsumer": "company",
+                    "plan": "Grok Business Supergrok",
+                    "IstrialPeriodPresent": false,
+                    "trialPeriodInDays": "",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": true,
+                            "isChargedYearlyPerYear": false,
+                            "monthlyPrice": "300.00",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                },
+                {
+                    "planConsumer": "company",
+                    "plan": "Grok Business Supergrok heavy",
+                    "IstrialPeriodPresent": false,
+                    "trialPeriodInDays": "",
+                    "yearlyChargesInDollars": [
+                        {
+                            "isChargedYearlyPerMonth": true,
+                            "isChargedYearlyPerYear": false,
+                            "monthlyPrice": "3000.00",
+                            "yearlyPrice": ""
+                        }
+                    ],
+                    "isTaxPresent": false,
+                    "taxPercent": "",
+                    "emailIdCount": "",
+                    "usersCount": "",
+                    "isSeatsPresent": false,
+                    "minSeatsCount": "",
+                    "minTeamSize": "",
+                    "maxTeamSize": ""
+                }
+            ]
+        },
+        "APIPricing": []
+    }
+]

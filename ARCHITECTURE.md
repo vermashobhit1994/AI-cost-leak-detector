@@ -245,6 +245,13 @@ provide both API price direct write and calculate using above parameters
 3. user estimated data 
 
 
+**What're factors on which pricing of any model depends on?**
+
+1. Claude models
+  
+2. open AI models
+
+
 
 
 Q. how to minimise token usuage to save money?

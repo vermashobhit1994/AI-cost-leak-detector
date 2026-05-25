@@ -1,28 +1,29 @@
 ## Cursor
+
 ### Monthly
-- Hobby: $0/month
+
+- Hobby: $0/month - https://cursor.com/pricing - verified 2026-05-24
 - individual
-  - Pro: $20/month
-  - Pro+: $60/month
-  - Ultra: $200/month
-- Teams: $40/user/month
-- Enterprise: 
+  - Pro: $20/month - https://cursor.com/pricing  https://cursor.com/api/auth/checkoutDeepControl?yearly=false - verified 2026-05-24
+  
+  - Pro+: $60/month - https://cursor.com/pricing  https://cursor.com/api/auth/checkoutDeepControl?tier=pro_plus&amp;yearly=false - verified 2026-05-24
+  
+  - Ultra: $200/month - https://cursor.com/pricing  https://cursor.com/api/auth/checkoutDeepControl?tier=ultra&amp;yearly=false - verified 2026-05-24
 
-- API direct
+- Teams: $40/user/month - https://cursor.com/pricing  https://cursor.com/team/new-team?yearly=false - verified 2026-05-24
 
-- token limits
-
+- Enterprise:  - https://cursor.com/pricing  https://cursor.com/contact-sales?source=pricing_enterprise  - verified 2026-05-24
 
 
 ### Yearly
-- Hobby: Free: $0/month
+- Hobby: $0/month - https://cursor.com/pricing - verified 2026-05-24 
 - Individual
-    - Pro: $16/month
-    - Pro+: $48/month
-    - Ultra: $160/month
+    - Pro: $16/month - https://cursor.com/pricing  https://cursor.com/api/auth/checkoutDeepControl?yearly=true - verified 2026-05-24
+    - Pro+: $48/month - https://cursor.com/pricing  https://cursor.com/api/auth/checkoutDeepControl?tier=pro_plus&yearly=true - verified 2026-05-24
+    - Ultra: $160/month - https://cursor.com/pricing  https://cursor.com/api/auth/checkoutDeepControl?tier=ultra&yearly=true - verified 2026-05-24
 
-- Teams: $32/user/month
-- Enterprise: 
+- Teams: $32/user/month - https://cursor.com/pricing  https://cursor.com/team/new-team?yearly=true - verified 2026-05-24
+- Enterprise:  - https://cursor.com/pricing  https://cursor.com/contact-sales?source=pricing_enterprise - verified 2026-05-24
 
 
 
@@ -31,138 +32,192 @@
 
 ### Monthly
 
-### Individuals
-- Free: $0/month - https://github.com/features/copilot/plans
-- Pro: $10/user/month - https://github.com/features/copilot/plans
-- Pro+: $39/user/month - https://github.com/features/copilot/plans
+#### Individuals
+- Free: $0/month - https://github.com/features/copilot/plans - verified 2026-05-24
+- Pro: $10/user/month - https://github.com/features/copilot/plans - verified 2026-05-24
+- Pro+: $39/user/month - https://github.com/features/copilot/plans - verified 2026-05-24
 
 ### business
-- business: $19/user/month
-- enterpise: $39/user/month
+- business: $19/user/month - https://github.com/features/copilot/plans - verified 2026-05-24
+- enterpise: $39/user/month - https://github.com/features/copilot/plans - verified 2026-05-24
+
+
 
 
 ## Claude
 
-### Individual
-- Free: $0/month
-- Pro: 
-  - $200/year paid -> $17/month
-  - $20/month
+## Monthly
 
-- Max: $100/month
+### Individual
+- Free: $0/month - https://claude.com/pricing - verified 2026-05-24
+- Pro: 
+  - $20/month - https://claude.com/pricing  https://claude.ai/upgrade/pro - verified 2026-05-24
+
+- Max: 
+  - $100/month - https://claude.com/pricing  https://claude.ai/upgrade/max - verified 2026-05-24 
+  - $200/month - https://claude.com/pricing  https://claude.ai/upgrade/max - verified 2026-05-24 
 
 ### Team & Enterprise
 - Team: 
-   - standard seat: $200/year paid -> $20/user/month 
-                  : $25/month
-   - Premium seat: $200/year paid -> $100/user/month
-                 : $125/month
+   - standard seat: $20/seat/month - https://claude.com/pricing#team-&-enterprise - verified 2026-05-24    
+                  
+   - Premium seat: $100/seat/month - https://claude.com/pricing#team-&-enterprise - verified 2026-05-24
+                 
 
-#### Enterprise
-- Enterprise: $20/user + **API Direct**(rate based on API usuage)
-   
+- Enterprise: $20/seat - https://claude.com/pricing#team-&-enterprise - verified 2026-05-24   
+
+## yearly
+
+### Individual
+
+- Pro: $200/year - https://claude.com/pricing  https://claude.ai/upgrade/pro - verified 2026-05-24
+ 
+### Team & Enterprise 
+
+- Team: 
+    - Standard Seat: $25/seat/month - https://claude.com/pricing#team-&-enterprise - verified 2026-05-24
+    - Premium Seat: $125/seat/month - https://claude.com/pricing#team-&-enterprise - verified 2026-05-24
+
+
+### API direct
+- Opus 4.7 
+    - input token: $5/1M tokens - https://claude.com/pricing#api - verified 2026-05-24    
+	- output token: $25/1M tokens - https://claude.com/pricing#api - verified 2026-05-24    
+	- prompt caching write: $6.25/1M tokens - https://claude.com/pricing#api - verified 2026-05-24    
+    - prompt caching read:  $0.50/1M tokens - https://claude.com/pricing#api - verified 2026-05-24    	
+	
+- Sonnet 4.6 - https://claude.com/pricing#api - verified 2026-05-24
+    - input token: $3/1M tokens - https://claude.com/pricing#api - verified 2026-05-24    
+	- output token: $15/1M tokens - https://claude.com/pricing#api - verified 2026-05-24    
+	- prompt caching write: $3.75/1M tokens - https://claude.com/pricing#api - verified 2026-05-24    
+    - prompt caching read:  $0.30/1M tokens - https://claude.com/pricing#api - verified 2026-05-24    	
+
+- Haiku 4.5 - https://claude.com/pricing#api - verified 2026-05-24  
+	- input token: $1/1M tokens - https://claude.com/pricing#api - verified 2026-05-24    
+	- output token: $5/1M tokens - https://claude.com/pricing#api - verified 2026-05-24    
+	- prompt caching write: $1.25/1M tokens - https://claude.com/pricing#api - verified 2026-05-24    
+    - prompt caching read:  $0.10/1M tokens - https://claude.com/pricing#api - verified 2026-05-24    	
+
+
 
 
 ## ChatGpt
 
-### Individual
-- Free: Rs 0/month
+## Monthly
 
-- Go: Rs 399/month
+#### Personal
+- Free: ₹0/month - https://chatgpt.com/pricing/ - verified 2026-05-24  
 
-- Plus: Rs 1,999/month
+- Go: ₹399/month - https://chatgpt.com/explore/go - verified 2026-05-24
 
-- Pro: Rs 10,699/month
+- Plus: ₹1,999/month - https://chatgpt.com/?ifpazk=ioaj&default_tab=personal#pricing - verified 2026-05-24
 
-### Business
-- Codex: pay based on usuage
+- Pro: ₹10,699/month - https://chatgpt.com/pricing/ - verified 2026-05-24
 
-- ChatGPT & Codex: 
 
-  - users === 2
-    - monthly -> Rs 2250 x 2 = Rs 4500/seat/month
-    - annual -> Rs 1800/seat/month
-             -> minimum payment => Rs 1800 x 12 x 2 => Rs 43,200 
+#### Business
 
-### Enterprise
+- Business ChatGPT & Codex: 
+    - ₹2250/seat/month -  https://chatgpt.com/pricing/ - verified 2026-05-24
+	
 
-### API direct
+- Business Codex: - https://chatgpt.com/pricing/  https://chatgpt.com/explore/codex_team - verified 2026-05-24 
 
-### token limit
+#### Enterprise 
+
+- Enterprise: - https://openai.com/chatgpt/enterprise  - verified 2026-05-24 
+
+## yearly
+
+#### business
+- Business ChatGPT & Codex: 
+    - ₹1800/seat/month - https://chatgpt.com/pricing/ - verified 2026-05-24
+
+
+## API direct
+
 
 
 
 
 ## Gemini
 
-- Free: Rs 0/month
-    - context window: 32K tokens
+## Monthly
 
-- Google AI Plus: Rs 399/month
-    - context window: 128K tokens
+- Free: ₹0/month - https://one.google.com/ai?utm_source=gemini&utm_medium=web&utm_campaign=advmktgsite&g1_landing_page=75 - verified 2026-05-24
+    
+- Google AI Plus: ₹399/month - https://one.google.com/ai?utm_source=gemini&utm_medium=web&utm_campaign=advmktgsite&g1_landing_page=75 - verified 2026-05-24 
 
-- Google AI Pro: Rs 1950/month
-    - context window: 1M tokens
+- Google AI Pro: ₹1950/month - https://one.google.com/ai?utm_source=gemini&utm_medium=web&utm_campaign=advmktgsite&g1_landing_page=75 - verified 2026-05-24
 
-- Google AI Ultra: Rs 6500/month
-    - context window: 1M tokens
+- Google AI Ultra: ₹6500/month - https://one.google.com/ai?utm_source=gemini&utm_medium=web&utm_campaign=advmktgsite&g1_landing_page=75 - verified 2026-05-24
+    
+
+## Yearly
+
+- Free: Rs 0/month - https://one.google.com/ai?utm_source=gemini&utm_medium=web&utm_campaign=advmktgsite&g1_landing_page=75 - verified 2026-05-24
+    
+- Google AI Plus: ₹3600/year - https://one.google.com/ai?utm_source=gemini&utm_medium=web&utm_campaign=advmktgsite&g1_landing_page=75 - verified 2026-05-24 
+
+- Google AI Pro: ₹19500/year - https://one.google.com/ai?utm_source=gemini&utm_medium=web&utm_campaign=advmktgsite&g1_landing_page=75 - verified 2026-05-24
+
+- Google AI Ultra: ₹6500/month - https://one.google.com/ai?utm_source=gemini&utm_medium=web&utm_campaign=advmktgsite&g1_landing_page=75 - verified 2026-05-24
+ 
+## API direct
+
+
 
 ## windsurf
 
+## Monthly
+
 ### Individual
-- Free: $0/month
-- PRO: $20/month (2 week free trial)
-- MAX: $200/month 
+
+- Free: $0/month - https://windsurf.com/pricing - verified 2026-05-24 
+- PRO: $20/month - https://windsurf.com/pricing - verified 2026-05-24
+- MAX: $200/month - https://windsurf.com/pricing https://windsurf.com/billing/individual?plan=18 - verified 2026-05-24
 
 ### Teams
-- TEAMS: $40/user/month
-- ENTERPRISE: 
-  - API direct
- 
-## grok
+- TEAMS: $40/seat/month - https://windsurf.com/pricing  https://windsurf.com/billing/individual?plan=1 - verified 2026-05-24 
+- ENTERPRISE: - https://windsurf.com/pricing https://windsurf.com/enterprise/contact - verified 2026-05-24 
 
-### individual
-- SuperGrok: Rs 700/month
+### API direct
 
-### business
-- Grok Business: $30/seat
-- Enterprise: 
+
 
 
 
 ## v0
 
-- Free: $0/month
-- Team: $30/user/month
-- Business: $100/user/month
-- Enterprise: 
+- Free: $0/month - https://v0.app/pricing - verified 2026-05-24  
+- Team: $30/user/month - https://v0.app/pricing https://v0.app/chat/upgrade - verified 2026-05-24  
+- Business: $100/user/month - https://v0.app/pricing  https://v0.app/chat/upgrade?plan=v0-business - verified 2026-05-24 
+- Enterprise: - https://v0.app/pricing  https://vercel.com/contact/sales/v0-enterprise - verified 2026-05-24 
+ 
+ 
+ 
+ 
+## grok
 
-### models
+## monthly
 
-- v0 Mini
-  - input tokens: $1/1M tokens
-  - Cache Write tokens: $1.25/1M tokens
-  - Cache Read tokens: $0.10/1M tokens
-  - output tokens: $5/1M tokens
-  - context window: 
+### individual
+- SuperGrok: ₹700/month - https://grok.com/plans - verified 2026-05-24 
 
-- v0 pro
-  - input tokens: $3/1M tokens
-  - cache write tokens: $3.75/1M tokens
-  - cache read tokens: $0.30/1M tokens
-  - output tokens: $15/1M tokens
+### business
+- Grok Business: $30/seat - https://grok.com/plans - verified 2026-05-24 
+- Enterprise: - https://grok.com/plans - verified 2026-05-24 
 
+## yearly
 
-- v0 max
-  - input tokens: $5/1M tokens
-  - cache write tokens: $6.25/1M tokens
-  - cache read tokens: $0.50/1M tokens
-  - output tokens: $25/1M tokens
-
-- v0 max fast
-  - input tokens: $30/1M tokens
-  - cache write tokens: $37.50/1M tokens
-  - cache read tokens: $3/1M tokens
-  - output tokens: $150/1M tokens
+### individual
+- SuperGrok 
+	- ₹541.67/month - https://grok.com/plans - verified 2026-05-24 
+    - ₹6500/month - https://grok.com/plans - verified 2026-05-24 
+	
+### business
+- Grok Business
+	- $300/seat - https://grok.com/plans - verified 2026-05-24 
+	- $25/month - https://grok.com/plans - verified 2026-05-24 
 
 

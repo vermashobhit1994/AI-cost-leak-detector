@@ -129,3 +129,27 @@ exact cost.
 - choose tech stack based on requirements.
 - design UI and implement functionailty of Spend input form, Audit engine using chosen tech stack.
   
+
+## Day 5 - 2026-05-24
+**Hours worked:** 8 
+
+**What I did:**
+- populate file with pricing data and its links
+- research about how pricing of claude AI tool works?
+- research about how pricing of openai AI Tool works?
+ 
+
+
+**What I learned:**
+- I must create file to structure my research for AI Tool
+
+
+**Blockers / what I'm stuck on:**
+- how pricing of claude for various plan works?
+
+**Plan for tomorrow:**
+- create file to store AI Tool pricing research.
+- data modelling after researching AI tool pricing 
+- system design after data modelling
+- tech stack select
+- UI design for different features.

@@ -118,7 +118,18 @@ const AIModelDetails = [
     }
 ]
 
-const userPricesList = [
+interface UserPriceInput {
+    AItool: string;
+    plan: string;
+    APICost: string;
+    currentMonthlyCostInDollars: string;
+    currentYearlyCostInDollars: string;
+    seatsCount: string;
+    teamSize: string;
+    purpose: string;
+}
+
+const userPricesList: UserPriceInput[] = [
     {
         "AItool": "claude",
         "plan": "Max 5x",
@@ -147,14 +158,18 @@ const outputAIToolsCost = [
 
 
 // audit engine to calculate AI tool plan cost + API cost 
-const auditEngine = (userPricesList) => {
+const auditEngine = (prices: UserPriceInput[]) => {
     // TODO: calculate plan cost using user provided prices list
-    userPricesList.forEach((userPrice) => {
-        const AITool = userPrice.AItool;
-        const plan = userPrice.plan;
+    prices.forEach((userPrice) => {
+        const _tool = userPrice.AItool;
+        const _plan = userPrice.plan;
 
-        AIToolCompanyPrices.forEach((AIToolPrice) => {
+        AIToolCompanyPrices.forEach((_companyPrice) => {
+            void _tool;
+            void _plan;
+            void _companyPrice;
+        });
+    });
+};
 
-        })
-    })
-}
+void auditEngine;

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 node_modules/
 jspm_packages/
@@ -33,5 +34,14 @@ out/
 .DS_Store
 Thumbs.db
 .data/
+=======
+node_modules/
+.next/
+dist/
+.data/
+.env
+.env.local
 *.tsbuildinfo
 .DS_Store
+
+>>>>>>> 29c5b0d (cursor made project)

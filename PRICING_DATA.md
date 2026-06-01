@@ -11,7 +11,11 @@ All pricing verified **2026-05-31** from official vendor pages. Numbers in `src/
 - Business (Teams): $40/user/month — https://cursor.com/pricing — verified 2026-05-31
 - Enterprise: Custom — https://cursor.com/pricing — verified 2026-05-31
 
+<<<<<<< HEAD
 _Note: Assignment lists "Business"; Cursor's current naming is "Teams" at $40/user. Mapped as `business` in the engine._
+=======
+*Note: Assignment lists "Business"; Cursor's current naming is "Teams" at $40/user. Mapped as `business` in the engine.*
+>>>>>>> 29c5b0d (cursor made project)
 
 ## GitHub Copilot
 
@@ -20,7 +24,11 @@ _Note: Assignment lists "Business"; Cursor's current naming is "Teams" at $40/us
 - Business: $19/user/month — https://github.com/features/copilot/plans — verified 2026-05-31
 - Enterprise: $39/user/month — https://github.com/features/copilot/plans — verified 2026-05-31
 
+<<<<<<< HEAD
 _Usage-based billing effective June 1, 2026; seat prices unchanged per GitHub blog._
+=======
+*Usage-based billing effective June 1, 2026; seat prices unchanged per GitHub blog.*
+>>>>>>> 29c5b0d (cursor made project)
 
 ## Claude (Anthropic)
 
@@ -35,9 +43,15 @@ _Usage-based billing effective June 1, 2026; seat prices unchanged per GitHub bl
 ## Anthropic API
 
 - Pay-as-you-go (no minimum):
+<<<<<<< HEAD
     - Haiku 4.5: $1.00 input / $5.00 output per 1M tokens — https://docs.anthropic.com/en/docs/about-claude/pricing — verified 2026-05-31
     - Sonnet 4.6: $3.00 input / $15.00 output per 1M tokens — same source
     - Opus 4.7: $5.00 input / $25.00 output per 1M tokens — same source
+=======
+  - Haiku 4.5: $1.00 input / $5.00 output per 1M tokens — https://docs.anthropic.com/en/docs/about-claude/pricing — verified 2026-05-31
+  - Sonnet 4.6: $3.00 input / $15.00 output per 1M tokens — same source
+  - Opus 4.7: $5.00 input / $25.00 output per 1M tokens — same source
+>>>>>>> 29c5b0d (cursor made project)
 
 ## ChatGPT (OpenAI)
 
@@ -71,10 +85,18 @@ _Usage-based billing effective June 1, 2026; seat prices unchanged per GitHub bl
 
 Credex credit discounts are **estimated** (not vendor list prices):
 
+<<<<<<< HEAD
 | Tool category                                | Estimated Credex discount |
 | -------------------------------------------- | ------------------------- |
 | IDE tools (Cursor, Copilot, Windsurf)        | 20–25%                    |
 | Chat subscriptions (Claude, ChatGPT, Gemini) | 20%                       |
 | API direct (Anthropic, OpenAI)               | 30%                       |
+=======
+| Tool category | Estimated Credex discount |
+|---------------|---------------------------|
+| IDE tools (Cursor, Copilot, Windsurf) | 20–25% |
+| Chat subscriptions (Claude, ChatGPT, Gemini) | 20% |
+| API direct (Anthropic, OpenAI) | 30% |
+>>>>>>> 29c5b0d (cursor made project)
 
 Documented in `src/pricing/plans.ts` as `credexDiscountRate` per tool.

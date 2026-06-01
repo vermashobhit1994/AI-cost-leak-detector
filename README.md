@@ -1,7 +1,6 @@
 # Cost Leak Detector
 
 digital solution that helps to monitor and reduce your cost on different AI tools in market and thus save time and energy.
-
 Free AI spend audit for startup founders and engineering managers. Input your stack, get instant savings recommendations — no login required.
 
 ## Quick start
@@ -20,12 +19,21 @@ Works on Vercel, Netlify, or Cloudflare Pages. Set env vars from `.env.example`.
 
 ## Scripts
 
-| Command             | Description                         |
+<<<<<<< HEAD
+| Command | Description |
 | ------------------- | ----------------------------------- |
-| `npm run dev`       | Next.js dev server                  |
-| `npm run build`     | Production build                    |
-| `npm test`          | Audit engine tests (11)             |
-| `npm run build:lib` | Standalone audit package to `dist/` |
+| `npm run dev` | Next.js dev server |
+| `npm run build` | Production build |
+| `npm test` | Audit engine tests (11) |
+=======
+| Command | Description |
+|---------|-------------|
+| `npm run dev` | Next.js dev server |
+| `npm run build` | Production build |
+| `npm test` | Audit engine tests (11) |
+
+> > > > > > > 29c5b0d (cursor made project)
+> > > > > > > | `npm run build:lib` | Standalone audit package to `dist/` |
 
 ## MVP features
 

@@ -2,6 +2,9 @@
 
 Free AI spend audit for startup founders and engineering managers — monitor spend across Cursor, Copilot, Claude, ChatGPT, and more, then get instant savings recommendations. No login required.
 
+## Live link 
+[AI Cost Leak detector](https://ai-cost-leak-detector.netlify.app/)
+
 ## Quick start
 
 ```bash

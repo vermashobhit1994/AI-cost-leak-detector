@@ -32,3 +32,6 @@ out/
 # OS-specific files
 .DS_Store
 Thumbs.db
+.data/
+*.tsbuildinfo
+.DS_Store
